@@ -5,14 +5,13 @@
 Clona este repositorio:
 
 ```sh
-git clone https://github.com/
+git clone https://github.com/OctaCrescini/51949
 ```
 
 Instala las dependencias necesarias (Node.js y npm deben estar instalados):
 
 ```sh
 cd 51949/antlr-switch-project
-npm install
 npm start
 ```
 
@@ -31,6 +30,3 @@ node index.js input.txt
 ```
 
 - Puedes cambiar `input.txt` por cualquier otro archivo de entrada que desees analizar.
-
-3. **Resultados:**
-   - El programa mostrará en consola si la sintaxis es correcta o los errores encontrados.

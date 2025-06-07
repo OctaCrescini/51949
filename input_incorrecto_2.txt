@@ -1,0 +1,13 @@
+= 10;
+switch(a) {
+  case 10:
+    console.log("Diez");
+  case :
+    console.log("Error");
+  default:
+    console.log("Default");
+}
+
+
+
+
